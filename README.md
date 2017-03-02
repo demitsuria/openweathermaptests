@@ -1,0 +1,23 @@
+# openweathermaptests
+Tests implemented:
+
+CityNameWithCityIdParametertest
+CityNameWithCityNameParameter
+CityNameWithCoordinateParameter
+CityNameWithZipCodeParameter
+CloudsAll
+Humidity
+Pressure
+ResponseCodeWithCityIdParameter
+ResponseCodeWithCityNameParameter
+ResponseCodeWithCoordinateParameter
+ResponseCodeWithZipCodeParameter
+Temp
+Temp_max
+Temp_min
+WeatherDescription
+WeatherIcon
+WeatherId
+WeatherMain
+WindDeg
+WindSpeed
